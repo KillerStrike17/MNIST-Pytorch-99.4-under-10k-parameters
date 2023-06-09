@@ -1,7 +1,7 @@
 # BackPropogation
 
 
-![Network](Assets/Network.jpg)
+![Network](Assets/Network.png)
 
 This is the Network for which we are writing the backpropgation.
 
