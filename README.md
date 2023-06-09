@@ -1,7 +1,7 @@
 # BackPropogation
 
 
-![Network](Assets/Network.png)
+![Network](https://github.com/KillerStrike17/MNIST-Pytorch-99.4-under-10k-parameters/blob/3ccfb2daf318fe8edbc8871ec102e27c5c3276d5/Assets/Network.png)
 
 This is the Network for which we are writing the backpropgation.
 
